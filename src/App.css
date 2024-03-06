@@ -1,0 +1,267 @@
+.add-author-form {
+  border: 2px solid #8dd7f3; /* Cambio de color del borde */
+  border-radius: 5px;
+  padding: 60px;
+  background-color: #d8f4f9; /* Cambio de color de fondo */
+  margin: 30px;
+}
+
+.add-author-form label {
+  font-weight: bold;
+}
+
+.add-author-form input[type="text"] {
+  margin-bottom: 10px;
+  padding: 9px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff; /* Cambio de color de fondo para los inputs */
+  border: 2px solid #9fcbf4; /* Cambio de color del borde para los inputs */
+  border-radius: 18px;
+}
+
+.custom-dialog-header {
+  text-align: center; /* Centrar el texto */
+  font-style: italic; /* Estilo en cursiva */
+}
+
+.add-author-form .button-group {
+  margin-top: 20px;
+}
+
+.add-author-form .button-group button {
+  margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.form-container {
+  border: 2px solid #8dd7f3; /* Cambio de color del borde */
+  border-radius: 5px;
+  padding: 60px;
+  background-color: #f5f5f5; /* Cambio de color de fondo */
+}
+
+.form {
+  /* Puedes mantener los estilos de .form como están */
+  border: none;
+  margin-bottom: 20px;
+  padding: 5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-h4 {
+  font-weight: normal;
+}
+
+.custom-dropdown {
+  width: 300px;
+}
+
+.custom-button {
+  margin-top: 30px;
+  width: 300px;
+}
+
+.title {
+  padding-left: 250px;
+  padding-bottom: 100px;
+}
+
+.imageLogo {
+  width: 120px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.button {
+  margin-left: 1px;
+}
+
+.card-table {
+  margin: 100px;
+  border: 2px solid #DDD7C6;
+}
+
+.item-side {
+  font: medium;
+  padding-left: 20px;
+}
+
+.li {
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+.add-book-form {
+  border: 2px solid #8dd7f3; /* Cambio de color del borde */
+  border-radius: 5px;
+  padding: 60px;
+  background-color: #d8f4f9; /* Cambio de color de fondo */
+  margin: 30px;
+  margin-bottom: 20px;
+}
+
+.add-book-form label {
+  font-weight: bold;
+  
+}
+
+.add-book-form input[type="text"] {
+  margin-bottom: 10px;
+  padding: 9px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff; /* Cambio de color de fondo para los inputs */
+  border: 2px solid #9fcbf4; /* Cambio de color del borde para los inputs */
+  border-radius: 18px;
+  
+}
+
+.custom-dialog-header {
+  text-align: center; /* Centrar el texto */
+  font-style: italic; /* Estilo en cursiva */
+}
+
+.add-book-form .button-group {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.add-book-form .button-group button {
+  margin-right: 10px;
+  margin-bottom: 19px;
+}
+
+.add-student-form {
+  border: 2px solid #8dd7f3; /* Cambio de color del borde */
+  border-radius: 5px;
+  padding: 60px;
+  background-color: #d8f4f9; /* Cambio de color de fondo */
+  margin: 30px;
+  margin-bottom: 20px;
+}
+
+.add-student-form label {
+  font-weight: bold;
+}
+
+.add-student-form input[type="text"] {
+  margin-bottom: 10px;
+  padding: 9px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff; /* Cambio de color de fondo para los inputs */
+  border: 2px solid #9fcbf4; /* Cambio de color del borde para los inputs */
+  border-radius: 18px;
+}
+
+.add-student-form .button-group {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.add-student-form .button-group button {
+  margin-right: 10px;
+  margin-bottom: 19px;
+}
+
+
+.add-author-form {
+  border: 2px solid #8dd7f3; /* Cambio de color del borde */
+  border-radius: 5px;
+  padding: 60px;
+  background-color: #d8f4f9; /* Cambio de color de fondo */
+  margin: 30px;
+}
+
+.add-author-form label {
+  font-weight: bold;
+}
+
+.add-author-form input[type="text"] {
+  margin-bottom: 10px;
+  padding: 9px;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff; /* Cambio de color de fondo para los inputs */
+  border: 2px solid #9fcbf4; /* Cambio de color del borde para los inputs */
+  border-radius: 18px;
+}
+
+.custom-dialog-header {
+  text-align: center; /* Centrar el texto */
+  font-style: italic; /* Estilo en cursiva */
+}
+
+.add-author-form .button-group {
+  margin-top: 20px;
+}
+
+.add-author-form .button-group button {
+  margin-right: 10px;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+.content {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.content h2 {
+  font-size: 24px;
+}
+
+.content p {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #f8f9fa;
+  margin-top: 50px;
+}
